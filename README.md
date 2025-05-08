@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hchvatal
-- 👀 I’m interested in blockchain, cryptos and metaverse
-- 🌱 I’m currently learning about NFTs
-- 💞️ I’m looking to collaborate on new products launch
+- 👀 I’m interested in blockchain and crypto
+- 🌱 I’m permanently learning about new technologies
+- 💞️ I’m permanently looking to collaborate on new startups
 - 📫 I'm @hchvatal everywhere
 
 <!---
